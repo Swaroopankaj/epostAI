@@ -1,0 +1,33 @@
+{
+  "app": {
+    "title": "epostAI",
+    "tagline": "AI-driven e-postkategorisering och arbetsflödesautomation"
+  },
+  "sidebar": {
+    "components": "Komponenter"
+  },
+  "flow": {
+    "new": "Nytt flöde",
+    "save": "Spara",
+    "untitled": "Namnlöst flöde"
+  },
+  "nodes": {
+    "outlook": {
+      "name": "Outlook Inbox",
+      "description": "Anslut till Microsoft Outlook"
+    },
+    "gmail": {
+      "name": "Gmail Inbox",
+      "description": "Anslut till Gmail"
+    },
+    "classifier": {
+      "name": "AI Klassificerare",
+      "description": "Kategorisera e-post med AI"
+    }
+  },
+  "llm": {
+    "placeholder": "Ställ en fråga om dina e-postmeddelanden...",
+    "send": "Skicka",
+    "tagline": "Ställ frågor om din inkorg och e-postarbetsflöden."
+  }
+}

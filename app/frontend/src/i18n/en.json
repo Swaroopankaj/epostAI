@@ -1,0 +1,33 @@
+{
+  "app": {
+    "title": "epostAI",
+    "tagline": "AI-powered email categorization and workflow automation"
+  },
+  "sidebar": {
+    "components": "Components"
+  },
+  "flow": {
+    "new": "New Flow",
+    "save": "Save",
+    "untitled": "Untitled Flow"
+  },
+  "nodes": {
+    "outlook": {
+      "name": "Outlook Inbox",
+      "description": "Connect to Microsoft Outlook"
+    },
+    "gmail": {
+      "name": "Gmail Inbox",
+      "description": "Connect to Gmail"
+    },
+    "classifier": {
+      "name": "AI Classifier",
+      "description": "Categorize emails with AI"
+    }
+  },
+  "llm": {
+    "placeholder": "Ask a question about your emails...",
+    "send": "Send",
+    "tagline": "Ask questions about your inbox and email workflows."
+  }
+}
